@@ -1,3 +1,15 @@
 body {
 	background-image: url(../img/pattern.png);
 }
+
+p {
+  color: red;
+}
+
+button {
+  background-color: black;
+}
+
+a {
+  color: yellow;
+}
